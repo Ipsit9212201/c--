@@ -1,0 +1,1 @@
+{"name":"Local: decimalToHex","url":"c:\\Users\\ipsit\\Desktop\\programs\\CPP\\newEra\\functions\\decimalToHex.cpp","tests":[{"id":1660218245183,"input":"10078","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ipsit\\Desktop\\programs\\CPP\\newEra\\functions\\decimalToHex.cpp","group":"local","local":true}
